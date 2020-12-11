@@ -1,0 +1,31 @@
+nav{
+    margin: 0;
+}
+
+a {
+  color: black;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+ul{
+    margin: 0;
+    padding: 5px;
+    margin-left: 0;
+    padding-left: 0;
+    list-style-type: none;
+    display: flex;
+}
+
+li a {
+  padding: 1em;
+}
+
+li a:hover {
+  background: orangered;
+}
+
+hr{
+    border-top: 1px solid orangered;
+}
+
